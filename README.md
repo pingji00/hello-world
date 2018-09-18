@@ -1,2 +1,9 @@
-# hello-world
-Practice for 2018 Fall
+# Project Hellow World
++ By: *Ping Ji*
++ Production URL: <http://hello-world.yourdomain.com>
+
+## Outside resources
+*n/a*
+
+## Notes for instructor
+*n/a*
